@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* border box nos ajuda a trabalhar com o espaçamento dos elementos */
+
+ul {
+    list-style-type: none;
+}
