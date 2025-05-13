@@ -84,7 +84,7 @@ e flex sempre vem como direction-row*/
 
 .cartao-pokedev img{
     width: 100%;
-    height: 100%;
+    height: 350px;
     margin-top: 10px;
 }
 
@@ -162,14 +162,6 @@ e flex sempre vem como direction-row*/
     background-image: url("../imagens/background-valorant.jpg");
 }
 
-.tipo-trevas {
-    background-color: #ba68c8;
-}
-
-.tipo-fada {
-    background-color: #c29791;
-}
-
 .listagem {
     max-width: 200px;
     max-height: 400px;
@@ -177,15 +169,7 @@ e flex sempre vem como direction-row*/
     padding-right: 10px;
 }
 
-/* .listagem::-webkit-scrollbar{
-    width: 8px;
-    height: 8px;
-}
 
-.listagem::-webkit-scrollbar-thumb{
-    border-radius: 20px;
-    background-color: #888;
-} */
 
 .listagem img {
     width: 25%;
